@@ -1,1 +1,1 @@
-# nice_subarray
+This problem contains a solution for counting the number of subarrays in an array of integers that have an exact sum equal to a given integer k. The solution is implemented in C++ and utilizes a two-pointer technique to efficiently count the subarrays.
